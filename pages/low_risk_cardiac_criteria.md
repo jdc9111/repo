@@ -11,7 +11,7 @@ title: Low Risk Cardiac Criteria
         - FiO2 (<=4 lpm nasal)
         - GCS (=15)
 ## The patient is in **sinus rhythm** OR chronic controlled atrial fibrillation (i.e. no signs of other abnormal rhythms) and <= 10 PVC’s per hour, no couplets, triplets or runs of VT within the past 24 hours
-    - Serum **troponin levels declining** or negative
+## Serum **troponin levels declining** or negative
     - No dynamic ischemic ECG changes in the last 24 hours
     - No ** chest pain or angina ** equivalent indicative of acute coronary syndrome in the last 24 hours
     - No acute episode of** CHF/pulmonary edema** in the last 24 hours
