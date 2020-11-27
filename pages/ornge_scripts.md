@@ -9,4 +9,3 @@ title: ORNGE scripts
 ### TT approved if medics and sending are comfortable AND sending has ACP or RN to bring the patient out.
 ## **Pre-Patch requested**
 ### Please have the medics call in for a pre-patch when they are available.
-##
