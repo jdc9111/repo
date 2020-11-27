@@ -30,4 +30,4 @@ title: OTAS
 #### Repat from ICU to open a bed for future acutely ill patient
 ### **Non-Urgent 5**
 #### Next day NU/scheduled calls
-            - Repat patients who are not holding a ICU bed
+#### Repat patients who are not holding a ICU bed
