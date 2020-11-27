@@ -3,7 +3,7 @@ title: Low Risk Cardiac Criteria
 ---
 
 ## ** Low-Risk Cardiac Transfer Criteria** #ornge
-## **Normal Vitals x 24 hours**
+### **Normal Vitals x 24 hours**
         - BP (SBP>=90, MAP>=65)..
         - HR (50-100)
         - RR (12-20)
