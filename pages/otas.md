@@ -16,9 +16,9 @@ title: OTAS
 ##### Pre-term labour in a facility without resources to manage the neonate
 #### OTAS 2  **Emergent 2 (<6 hours)**
 ##### Conditions that are a potential threat to life, limb or function requiring rapid medical interventions. These patients have an acute illness or injury and have the potential for further deterioration. They need prompt treatment to stabilise developing problems and treat severe conditions. These may be patients with relatively stable conditions that overwhelm a local hospital/nursing statopms ability to care for them.
-                - Intubated patient in setting without a ventilator
-                - ACS or NSEMI with ongoing CP
-                - Septic patient with early end organ failure in rural hospital requiring tertiary level care
+###### Intubated patient in setting without a ventilator
+###### ACS or NSEMI with ongoing CP
+###### Septic patient with early end organ failure in rural hospital requiring tertiary level care
         - **Urgent 3 (<12 hours)**
             - Patient conditions that could potentially progress to a serious problem requiring emergency intervention. These patients are stable, but their diagnosis or presenting problem suggests a potentially more serious process. These may be patients that are undifferentiated without a precise diagnosis but are stable currently but there is a concern for possible deterioration beyond the capabilities of the sending facility.
                 - Stable NSTEMI without chest pain
