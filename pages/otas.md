@@ -28,6 +28,6 @@ title: OTAS
 #### closed #
 #### stable abdominal pain going for assessment with low risk or surgical cause
 #### Repat from ICU to open a bed for future acutely ill patient
-#### **Non-Urgent 5**
-##### Next day NU/scheduled calls
+### **Non-Urgent 5**
+#### Next day NU/scheduled calls
             - Repat patients who are not holding a ICU bed
