@@ -8,6 +8,6 @@ title: Vomiting in Pregnancy
 ## Diclectin (doxylamine 10 milligrams / pyridoxine 10 milligrams)
 ### 1 tab at 0800h
 ### 1 tab at 1400h
-    - 2 tabs at 2200h
-    - Max 8 tabs per day
+### 2 tabs at 2200h
+### Max 8 tabs per day
 - [PUQUE Score](https://www.babymed.com/puqe-nausea-and-vomiting-score/take)
