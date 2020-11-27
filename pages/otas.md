@@ -23,11 +23,11 @@ title: OTAS
 #### Patient conditions that could potentially progress to a serious problem requiring emergency intervention. These patients are stable, but their diagnosis or presenting problem suggests a potentially more serious process. These may be patients that are undifferentiated without a precise diagnosis but are stable currently but there is a concern for possible deterioration beyond the capabilities of the sending facility.
 ##### Stable NSTEMI without chest pain
 ##### Ventilated/septic patient in community hospital requiring tertiary level care
-##### SOB patient with stable vital signs going to rule out P
+##### SOB patient with stable vital signs going to rule out PE
 ### **Non-Urgent 4**
-            - closed #
-            - stable abdominal pain going for assessment with low risk or surgical cause
-            - Repat from ICU to open a bed for future acutely ill patient
-        - **Non-Urgent 5**
-            - Next day NU/scheduled calls
-            - Repat patients who are not holding a ICU bed
+#### closed #
+#### stable abdominal pain going for assessment with low risk or surgical cause
+#### Repat from ICU to open a bed for future acutely ill patient
+### **Non-Urgent 5**
+#### Next day NU/scheduled calls
+#### Repat patients who are not holding a ICU bed
