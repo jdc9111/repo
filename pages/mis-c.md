@@ -16,8 +16,7 @@ infection by RT-PCR, serology, or antigen test; or
 exposure to a suspected or confirmed COVID-19
 case within the 4 weeks prior to the onset of
 symptoms
-## **Fever >38.0°C for ≥24 hours, or report of
-subjective fever lasting ≥24 hours
+##
 ## **Including, but not limited to, one or more of
 the following: an elevated C-reactive protein
 (CRP), erythrocyte sedimentation rate (ESR),
