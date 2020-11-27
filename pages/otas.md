@@ -10,7 +10,7 @@ title: OTAS
 ##### Acute STEMI that requires time sensitive or rescue intervention i.e. not reperfused by TNK
 ##### Acute multisystem trauma
 ##### Acute vascular emergency requiring immediate surgical intervention type A dissection, AAA
-                - Complicated Labour (preterm,breach, abruption)
+##### Complicated Labour (preterm,breach, abruption)
                 - Intracranial hemorrhage requiring
                 - neurosurgical intervention 
                 - Orthopaedic injury with neurovascular compromise 
