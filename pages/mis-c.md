@@ -25,3 +25,7 @@ fibrinogen, procalcitonin, d-dimer, ferritin, lactic
 acid dehydrogenase (LDH), or interleukin 6
 (IL-6), elevated neutrophils, reduced lymphocytes
 and low albumin
+## Some individuals may fulfill full or partial
+criteria for **Kawasaki disease** but should be
+reported if they meet the case definition for
+MIS-C.
