@@ -3,9 +3,8 @@ title: OTAS
 ---
 
 ## OTAS
-### - OTAS 1
-        - **Emergent 1 (<4 hours)**
-            - Conditions that are threats to life or limb (or imminent risk of deterioration) requiring immediate aggressive interventions that cannot beyond the scope at the sending hospital or nursing station or patients are requiring immediate intervention at the receiving facility
+### OTAS 1 **Emergent 1 (<4 hours)**
+#### - Conditions that are threats to life or limb (or imminent risk of deterioration) requiring immediate aggressive interventions that cannot beyond the scope at the sending hospital or nursing station or patients are requiring immediate intervention at the receiving facility
                 -  Scene Response or Modified Scene 
                 -  Declared Life or Limb 
                 - Acute STEMI that requires time sensitive or rescue intervention i.e. not reperfused by TNK 
