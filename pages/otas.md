@@ -11,9 +11,8 @@ title: OTAS
 ##### Acute multisystem trauma
 ##### Acute vascular emergency requiring immediate surgical intervention type A dissection, AAA
 ##### Complicated Labour (preterm,breach, abruption\
-##### intracranial hemorrhage requiring
-                - neurosurgical intervention 
-                - Orthopaedic injury with neurovascular compromise 
+##### intracranial hemorrhage requiring neurosurgical intervention
+##### Orthopaedic injury with neurovascular compromise 
                 - Pre-term labour in a facility without resources to manage the neonate
         - **Emergent 2 (<6 hours)**
             - Conditions that are a potential threat to life, limb or function requiring rapid medical interventions. These patients have an acute illness or injury and have the potential for further deterioration. They need prompt treatment to stabilise developing problems and treat severe conditions. These may be patients with relatively stable conditions that overwhelm a local hospital/nursing statopms ability to care for them.
