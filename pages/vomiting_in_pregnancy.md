@@ -10,4 +10,4 @@ title: Vomiting in Pregnancy
 ### 1 tab at 1400h
 ### 2 tabs at 2200h
 ### Max 8 tabs per day
-- [PUQUE Score](https://www.babymed.com/puqe-nausea-and-vomiting-score/take)
+## [PUQUE Score](https://www.babymed.com/puqe-nausea-and-vomiting-score/take)
