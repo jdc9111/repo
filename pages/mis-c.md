@@ -10,13 +10,12 @@ hospitalization, with multisystem (>2) organ
 involvement (cardiac, renal, respiratory,
 hematologic, gastrointestinal, dermatologic or
 neurological); AND
+#### **Fever >38.0°C for ≥24 hours, or report of
+subjective fever lasting ≥24 hours
 ### No alternative plausible diagnoses; AND
 ### Positive for current or recent SARS-CoV-2
-infection by RT-PCR, serology, or antigen test; or
-exposure to a suspected or confirmed COVID-19
-case within the 4 weeks prior to the onset of
+infection by RT-PCR, serology, or antigen test; or exposure to a suspected or confirmed COVID-19 case within the 4 weeks prior to the onset of
 symptoms
-##
 ## **Including, but not limited to, one or more of
 the following: an elevated C-reactive protein
 (CRP), erythrocyte sedimentation rate (ESR),
