@@ -10,8 +10,8 @@ hospitalization, with multisystem (>2) organ
 involvement (cardiac, renal, respiratory,
 hematologic, gastrointestinal, dermatologic or
 neurological); AND
-## No alternative plausible diagnoses; AND
-## Positive for current or recent SARS-CoV-2
+### No alternative plausible diagnoses; AND
+### Positive for current or recent SARS-CoV-2
 infection by RT-PCR, serology, or antigen test; or
 exposure to a suspected or confirmed COVID-19
 case within the 4 weeks prior to the onset of
