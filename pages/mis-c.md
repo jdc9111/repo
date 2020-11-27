@@ -3,13 +3,7 @@ title: MIS-C
 ---
 
 ## Multisystem inflammtory syndrome
-### An individual aged <21 years presenting with
-**fever***, laboratory evidence of inflammation**,
-and evidence of clinically severe illness requiring
-hospitalization, with multisystem (>2) organ
-involvement (cardiac, renal, respiratory,
-hematologic, gastrointestinal, dermatologic or
-neurological); AND
+### An individual aged <21 years presenting with **fever***, laboratory evidence of inflammation**, and evidence of clinically severe illness requiring hospitalization, with multisystem (>2) organ involvement (cardiac, renal, respiratory, hematologic, gastrointestinal, dermatologic or neurological); AND
 #### **Fever >38.0°C for ≥24 hours, or report of
 subjective fever lasting ≥24 hours
 ### No alternative plausible diagnoses; AND
