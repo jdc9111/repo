@@ -2,4 +2,4 @@
 title: Fire Pits
 ---
 
-## [Iron Embers](https:/ironembers.com)
+## [Iron Embers](https://www.ironembers.com/)
