@@ -17,6 +17,6 @@ title: Low Risk Cardiac Criteria
 ## No acute episode of** CHF/pulmonary edema** in the last 24 hours
 ## No **brady- or tachydysrhythmias** (HR<50 or HR>120) in the last 24 hours
 ## No second degree or higher **AVB** in the last 24 hours
-    - No  **drug or fluid infusions** running
-    - No** thrombolytic agent** within 24 hours
+## No  **drug or fluid infusions** running
+## No** thrombolytic agent** within 24 hours
     - If angiogram performed: No high-risk angiographic lesions known consisting of:** left main stem coronary artery lesion >= 90%** or fresh thrombus or any high risk
